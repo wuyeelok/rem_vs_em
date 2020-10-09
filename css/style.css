@@ -1,9 +1,17 @@
-.header {
-  font-size: 1rem;
-  padding: 0.5em 0.75em;
-  background: #7f7cff;
+.component {
+  background: white;
+  border: 2px solid #7f7cff;
 }
 
-.header--large {
-  font-size: 2rem;
+.component__header {
+  font-size: 2em;
+  padding: 0.5em 1.5rem;
+  background: #7f7cff;
+  margin: 0;
+}
+
+.component p {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  margin: 1.5rem 0;
 }
