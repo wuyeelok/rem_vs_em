@@ -1,11 +1,11 @@
 .header {
-  font-size: 1em;
-  padding: 0.5em 0.75em;
+  font-size: 1rem;
+  padding: 0.5em 0.75rem;
   background: #7f7cff;
 }
 
 .header--large {
-  font-size: 2em;
+  font-size: 2rem;
 }
 
 p {
